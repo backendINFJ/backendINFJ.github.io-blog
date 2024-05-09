@@ -7,7 +7,7 @@
 또 다른 클래스에는
 
 	public void ChildMethod () {
-	System.out.println("Child -> ChildMethod")
+	System.out.println("Child -> ChildMethod") 
 	}
 
 메인 메서드는
