@@ -1,3 +1,5 @@
+### 다형성 정리
+
 하나의 클래스에 
 
 	public void ParentMethod () {
